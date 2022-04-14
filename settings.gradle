@@ -1,0 +1,5 @@
+rootProject.name = 'Netology2'
+include 'db'
+include 'api'
+include 'service'
+
